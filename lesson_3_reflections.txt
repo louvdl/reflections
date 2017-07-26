@@ -14,3 +14,6 @@ In case you need to work offline and want to make changes offline.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 No idea
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to experiment someting without breaking your master code
